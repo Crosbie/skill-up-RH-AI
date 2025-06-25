@@ -1,20 +1,19 @@
-**Generate Story**
+**Generate Sales Story**
 
-Craft a 5 minute sales story to show value to the target persona of a company.
+Here are 5 Customers:
 
-* Pick a fictional target customer:  
-  * A real estate company   
-  * A banking company   
-  * A city government   
-  * A large global telecommunications company   
-* Pick a person in that company as the target of this presentation:  
-  * C-Level individual (CEO, CFO, CTO etc.)  
-  * IT Admin  
-  * Developer, Data Scientist  
-* Pick a demo asset from the following:  
-  * Red Hat helps with AI Adoption  
-    * [https://interact.redhat.com/share/cgYsaBPDxWsGtbtf9bke](https://interact.redhat.com/share/cgYsaBPDxWsGtbtf9bke)  
-      	
 
-With these 3 choices, address a customer pain point and how to overcome based on one or more features of Red Hat AI
+Please choose one and choose a decision makers persona within that company. tell me both your choices
+
+============
+
+
+Here are 6 demo assets:
+
+
+Choose one that most appeals to the chosen customer and persona
+
+=============
+
+Using the concept of "Episodes" from the book "Great Demo!", please craft 2 Episodes based on the demo asset that will show value to the persona you chose
 
